@@ -59,8 +59,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:Nishanth J
+### Register Number:23007929 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
